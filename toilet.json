@@ -1,0 +1,14 @@
+{ "columns":35,
+ "image":"toilet.png",
+ "imageheight":822,
+ "imagewidth":1128,
+ "margin":0,
+ "name":"toilet",
+ "spacing":0,
+ "tilecount":875,
+ "tiledversion":"2021.03.23",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.5
+}
