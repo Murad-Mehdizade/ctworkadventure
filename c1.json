@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"c2.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
