@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map_Matti.json"
+                 "value":"map_Matti.json#startLayer-1"
                 }],
          "type":"tilelayer",
          "visible":true,
